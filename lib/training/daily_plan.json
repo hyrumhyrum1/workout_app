@@ -1,0 +1,35 @@
+{
+    "workouts": [
+        {
+            "workout": "squat",
+            "estimatedDuration": 20,
+            "sets": 4,
+            "reps": 8,
+            "effort": 75
+        },
+        {
+            "workout": "bench_press",
+            "estimatedDuration": 15,
+            "sets": 3,
+            "reps": 10,
+            "effort": 70
+        },
+        {
+            "workout": "deadlift",
+            "estimatedDuration": 12,
+            "sets": 3,
+            "reps": 12,
+            "effort": 65
+        },
+        {
+            "workout": "overhead_press",
+            "estimatedDuration": 18,
+            "sets": 4,
+            "reps": 6,
+            "effort": 80
+        }
+    ],
+    "totalDuration": 65,
+    "focusArea": "Compound Lifts",
+    "difficulty": "Intermediate"
+}

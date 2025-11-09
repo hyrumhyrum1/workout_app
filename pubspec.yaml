@@ -1,5 +1,5 @@
 name: workout_app
-description: "A new Flutter project."
+description: "A cross-platform Flutter app designed to automate workout planning and provide real-time, individualized feedback to optimize performance."
 publish_to: 'none'
 version: 0.1.0
 
@@ -9,6 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  fl_chart:
+    git:
+      url: https://github.com/imaNNeoFighT/fl_chart.git
+      ref: main
 
 dev_dependencies:
   flutter_test:
@@ -17,3 +21,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  
+  assets:
+    - lib/training/daily_plan.json
+    - lib/training/time_series.json

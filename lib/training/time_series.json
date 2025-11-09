@@ -1,0 +1,988 @@
+{
+    "workoutData": [
+        {
+            "date": "2025-09-01",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 200 },
+                        { "reps": 5, "weight": 200 },
+                        { "reps": 5, "weight": 200 }
+                    ],
+                    "predicted1RM": 233.3
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 150 },
+                        { "reps": 5, "weight": 150 },
+                        { "reps": 5, "weight": 150 }
+                    ],
+                    "predicted1RM": 175.0
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 260 },
+                        { "reps": 5, "weight": 260 },
+                        { "reps": 5, "weight": 260 }
+                    ],
+                    "predicted1RM": 303.3
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 100 },
+                        { "reps": 5, "weight": 100 },
+                        { "reps": 5, "weight": 100 }
+                    ],
+                    "predicted1RM": 116.7
+                }
+            ]
+        },
+        {
+            "date": "2025-09-03",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 200 },
+                        { "reps": 5, "weight": 200 },
+                        { "reps": 5, "weight": 200 }
+                    ],
+                    "predicted1RM": 233.3
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 150 },
+                        { "reps": 5, "weight": 150 },
+                        { "reps": 5, "weight": 150 }
+                    ],
+                    "predicted1RM": 175.0
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 260 },
+                        { "reps": 5, "weight": 260 },
+                        { "reps": 5, "weight": 260 }
+                    ],
+                    "predicted1RM": 303.3
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 100 },
+                        { "reps": 5, "weight": 100 },
+                        { "reps": 5, "weight": 100 }
+                    ],
+                    "predicted1RM": 116.7
+                }
+            ]
+        },
+        {
+            "date": "2025-09-05",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 200 },
+                        { "reps": 5, "weight": 200 },
+                        { "reps": 5, "weight": 200 }
+                    ],
+                    "predicted1RM": 233.3
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 150 },
+                        { "reps": 5, "weight": 150 },
+                        { "reps": 5, "weight": 150 }
+                    ],
+                    "predicted1RM": 175.0
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 260 },
+                        { "reps": 5, "weight": 260 },
+                        { "reps": 5, "weight": 260 }
+                    ],
+                    "predicted1RM": 303.3
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 100 },
+                        { "reps": 5, "weight": 100 },
+                        { "reps": 5, "weight": 100 }
+                    ],
+                    "predicted1RM": 116.7
+                }
+            ]
+        },
+        {
+            "date": "2025-09-08",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 205 },
+                        { "reps": 5, "weight": 205 },
+                        { "reps": 5, "weight": 205 }
+                    ],
+                    "predicted1RM": 239.2
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 152.5 },
+                        { "reps": 5, "weight": 152.5 },
+                        { "reps": 5, "weight": 152.5 }
+                    ],
+                    "predicted1RM": 177.1
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 270 },
+                        { "reps": 5, "weight": 270 },
+                        { "reps": 5, "weight": 270 }
+                    ],
+                    "predicted1RM": 315.0
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 102.5 },
+                        { "reps": 5, "weight": 102.5 },
+                        { "reps": 5, "weight": 102.5 }
+                    ],
+                    "predicted1RM": 119.6
+                }
+            ]
+        },
+        {
+            "date": "2025-09-10",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 205 },
+                        { "reps": 5, "weight": 205 },
+                        { "reps": 5, "weight": 205 }
+                    ],
+                    "predicted1RM": 239.2
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 152.5 },
+                        { "reps": 5, "weight": 152.5 },
+                        { "reps": 5, "weight": 152.5 }
+                    ],
+                    "predicted1RM": 177.1
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 270 },
+                        { "reps": 5, "weight": 270 },
+                        { "reps": 5, "weight": 270 }
+                    ],
+                    "predicted1RM": 315.0
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 102.5 },
+                        { "reps": 5, "weight": 102.5 },
+                        { "reps": 5, "weight": 102.5 }
+                    ],
+                    "predicted1RM": 119.6
+                }
+            ]
+        },
+        {
+            "date": "2025-09-12",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 205 },
+                        { "reps": 5, "weight": 205 },
+                        { "reps": 5, "weight": 205 }
+                    ],
+                    "predicted1RM": 239.2
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 152.5 },
+                        { "reps": 5, "weight": 152.5 },
+                        { "reps": 5, "weight": 152.5 }
+                    ],
+                    "predicted1RM": 177.1
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 270 },
+                        { "reps": 5, "weight": 270 },
+                        { "reps": 5, "weight": 270 }
+                    ],
+                    "predicted1RM": 315.0
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 102.5 },
+                        { "reps": 5, "weight": 102.5 },
+                        { "reps": 5, "weight": 102.5 }
+                    ],
+                    "predicted1RM": 119.6
+                }
+            ]
+        },
+        {
+            "date": "2025-09-15",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 210 },
+                        { "reps": 5, "weight": 210 },
+                        { "reps": 5, "weight": 210 }
+                    ],
+                    "predicted1RM": 245.0
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 155 },
+                        { "reps": 5, "weight": 155 },
+                        { "reps": 5, "weight": 155 }
+                    ],
+                    "predicted1RM": 180.8
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 280 },
+                        { "reps": 5, "weight": 280 },
+                        { "reps": 5, "weight": 280 }
+                    ],
+                    "predicted1RM": 326.7
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 105 },
+                        { "reps": 5, "weight": 105 },
+                        { "reps": 5, "weight": 105 }
+                    ],
+                    "predicted1RM": 122.5
+                }
+            ]
+        },
+        {
+            "date": "2025-09-17",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 210 },
+                        { "reps": 5, "weight": 210 },
+                        { "reps": 5, "weight": 210 }
+                    ],
+                    "predicted1RM": 245.0
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 155 },
+                        { "reps": 5, "weight": 155 },
+                        { "reps": 5, "weight": 155 }
+                    ],
+                    "predicted1RM": 180.8
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 280 },
+                        { "reps": 5, "weight": 280 },
+                        { "reps": 5, "weight": 280 }
+                    ],
+                    "predicted1RM": 326.7
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 105 },
+                        { "reps": 5, "weight": 105 },
+                        { "reps": 5, "weight": 105 }
+                    ],
+                    "predicted1RM": 122.5
+                }
+            ]
+        },
+        {
+            "date": "2025-09-19",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 210 },
+                        { "reps": 5, "weight": 210 },
+                        { "reps": 5, "weight": 210 }
+                    ],
+                    "predicted1RM": 245.0
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 155 },
+                        { "reps": 5, "weight": 155 },
+                        { "reps": 5, "weight": 155 }
+                    ],
+                    "predicted1RM": 180.8
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 280 },
+                        { "reps": 5, "weight": 280 },
+                        { "reps": 5, "weight": 280 }
+                    ],
+                    "predicted1RM": 326.7
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 105 },
+                        { "reps": 5, "weight": 105 },
+                        { "reps": 5, "weight": 105 }
+                    ],
+                    "predicted1RM": 122.5
+                }
+            ]
+        },
+        {
+            "date": "2025-09-22",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 215 },
+                        { "reps": 5, "weight": 215 },
+                        { "reps": 5, "weight": 215 }
+                    ],
+                    "predicted1RM": 250.8
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 157.5 },
+                        { "reps": 5, "weight": 157.5 },
+                        { "reps": 5, "weight": 157.5 }
+                    ],
+                    "predicted1RM": 183.8
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 290 },
+                        { "reps": 5, "weight": 290 },
+                        { "reps": 5, "weight": 290 }
+                    ],
+                    "predicted1RM": 338.3
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 107.5 },
+                        { "reps": 5, "weight": 107.5 },
+                        { "reps": 5, "weight": 107.5 }
+                    ],
+                    "predicted1RM": 125.4
+                }
+            ]
+        },
+        {
+            "date": "2025-09-24",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 215 },
+                        { "reps": 5, "weight": 215 },
+                        { "reps": 5, "weight": 215 }
+                    ],
+                    "predicted1RM": 250.8
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 157.5 },
+                        { "reps": 5, "weight": 157.5 },
+                        { "reps": 5, "weight": 157.5 }
+                    ],
+                    "predicted1RM": 183.8
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 290 },
+                        { "reps": 5, "weight": 290 },
+                        { "reps": 5, "weight": 290 }
+                    ],
+                    "predicted1RM": 338.3
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 107.5 },
+                        { "reps": 5, "weight": 107.5 },
+                        { "reps": 5, "weight": 107.5 }
+                    ],
+                    "predicted1RM": 125.4
+                }
+            ]
+        },
+        {
+            "date": "2025-09-26",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 215 },
+                        { "reps": 5, "weight": 215 },
+                        { "reps": 5, "weight": 215 }
+                    ],
+                    "predicted1RM": 250.8
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 157.5 },
+                        { "reps": 5, "weight": 157.5 },
+                        { "reps": 5, "weight": 157.5 }
+                    ],
+                    "predicted1RM": 183.8
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 290 },
+                        { "reps": 5, "weight": 290 },
+                        { "reps": 5, "weight": 290 }
+                    ],
+                    "predicted1RM": 338.3
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 107.5 },
+                        { "reps": 5, "weight": 107.5 },
+                        { "reps": 5, "weight": 107.5 }
+                    ],
+                    "predicted1RM": 125.4
+                }
+            ]
+        },
+        {
+            "date": "2025-09-29",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 220 },
+                        { "reps": 5, "weight": 220 },
+                        { "reps": 5, "weight": 220 }
+                    ],
+                    "predicted1RM": 256.7
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 160 },
+                        { "reps": 5, "weight": 160 },
+                        { "reps": 5, "weight": 160 }
+                    ],
+                    "predicted1RM": 186.7
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 300 },
+                        { "reps": 5, "weight": 300 },
+                        { "reps": 5, "weight": 300 }
+                    ],
+                    "predicted1RM": 350.0
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 110 },
+                        { "reps": 5, "weight": 110 },
+                        { "reps": 5, "weight": 110 }
+                    ],
+                    "predicted1RM": 128.3
+                }
+            ]
+        },
+        {
+            "date": "2025-10-01",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 220 },
+                        { "reps": 5, "weight": 220 },
+                        { "reps": 5, "weight": 220 }
+                    ],
+                    "predicted1RM": 256.7
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 160 },
+                        { "reps": 5, "weight": 160 },
+                        { "reps": 5, "weight": 160 }
+                    ],
+                    "predicted1RM": 186.7
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 300 },
+                        { "reps": 5, "weight": 300 },
+                        { "reps": 5, "weight": 300 }
+                    ],
+                    "predicted1RM": 350.0
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 110 },
+                        { "reps": 5, "weight": 110 },
+                        { "reps": 5, "weight": 110 }
+                    ],
+                    "predicted1RM": 128.3
+                }
+            ]
+        },
+        {
+            "date": "2025-10-03",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 220 },
+                        { "reps": 5, "weight": 220 },
+                        { "reps": 5, "weight": 220 }
+                    ],
+                    "predicted1RM": 256.7
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 160 },
+                        { "reps": 5, "weight": 160 },
+                        { "reps": 5, "weight": 160 }
+                    ],
+                    "predicted1RM": 186.7
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 300 },
+                        { "reps": 5, "weight": 300 },
+                        { "reps": 5, "weight": 300 }
+                    ],
+                    "predicted1RM": 350.0
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 110 },
+                        { "reps": 5, "weight": 110 },
+                        { "reps": 5, "weight": 110 }
+                    ],
+                    "predicted1RM": 128.3
+                }
+            ]
+        },
+        {
+            "date": "2025-10-06",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 225 },
+                        { "reps": 5, "weight": 225 },
+                        { "reps": 5, "weight": 225 }
+                    ],
+                    "predicted1RM": 262.5
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 162.5 },
+                        { "reps": 5, "weight": 162.5 },
+                        { "reps": 5, "weight": 162.5 }
+                    ],
+                    "predicted1RM": 189.6
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 310 },
+                        { "reps": 5, "weight": 310 },
+                        { "reps": 5, "weight": 310 }
+                    ],
+                    "predicted1RM": 361.7
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 112.5 },
+                        { "reps": 5, "weight": 112.5 },
+                        { "reps": 5, "weight": 112.5 }
+                    ],
+                    "predicted1RM": 131.3
+                }
+            ]
+        },
+        {
+            "date": "2025-10-08",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 225 },
+                        { "reps": 5, "weight": 225 },
+                        { "reps": 5, "weight": 225 }
+                    ],
+                    "predicted1RM": 262.5
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 162.5 },
+                        { "reps": 5, "weight": 162.5 },
+                        { "reps": 5, "weight": 162.5 }
+                    ],
+                    "predicted1RM": 189.6
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 310 },
+                        { "reps": 5, "weight": 310 },
+                        { "reps": 5, "weight": 310 }
+                    ],
+                    "predicted1RM": 361.7
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 112.5 },
+                        { "reps": 5, "weight": 112.5 },
+                        { "reps": 5, "weight": 112.5 }
+                    ],
+                    "predicted1RM": 131.3
+                }
+            ]
+        },
+        {
+            "date": "2025-10-10",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 225 },
+                        { "reps": 5, "weight": 225 },
+                        { "reps": 5, "weight": 225 }
+                    ],
+                    "predicted1RM": 262.5
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 162.5 },
+                        { "reps": 5, "weight": 162.5 },
+                        { "reps": 5, "weight": 162.5 }
+                    ],
+                    "predicted1RM": 189.6
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 310 },
+                        { "reps": 5, "weight": 310 },
+                        { "reps": 5, "weight": 310 }
+                    ],
+                    "predicted1RM": 361.7
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 112.5 },
+                        { "reps": 5, "weight": 112.5 },
+                        { "reps": 5, "weight": 112.5 }
+                    ],
+                    "predicted1RM": 131.3
+                }
+            ]
+        },
+        {
+            "date": "2025-10-13",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 230 },
+                        { "reps": 5, "weight": 230 },
+                        { "reps": 5, "weight": 230 }
+                    ],
+                    "predicted1RM": 268.3
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 165 },
+                        { "reps": 5, "weight": 165 },
+                        { "reps": 5, "weight": 165 }
+                    ],
+                    "predicted1RM": 192.5
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 320 },
+                        { "reps": 5, "weight": 320 },
+                        { "reps": 5, "weight": 320 }
+                    ],
+                    "predicted1RM": 373.3
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 115 },
+                        { "reps": 5, "weight": 115 },
+                        { "reps": 5, "weight": 115 }
+                    ],
+                    "predicted1RM": 134.2
+                }
+            ]
+        },
+        {
+            "date": "2025-10-15",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 230 },
+                        { "reps": 5, "weight": 230 },
+                        { "reps": 5, "weight": 230 }
+                    ],
+                    "predicted1RM": 268.3
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 165 },
+                        { "reps": 5, "weight": 165 },
+                        { "reps": 5, "weight": 165 }
+                    ],
+                    "predicted1RM": 192.5
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 320 },
+                        { "reps": 5, "weight": 320 },
+                        { "reps": 5, "weight": 320 }
+                    ],
+                    "predicted1RM": 373.3
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 115 },
+                        { "reps": 5, "weight": 115 },
+                        { "reps": 5, "weight": 115 }
+                    ],
+                    "predicted1RM": 134.2
+                }
+            ]
+        },
+        {
+            "date": "2025-10-17",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 230 },
+                        { "reps": 5, "weight": 230 },
+                        { "reps": 5, "weight": 230 }
+                    ],
+                    "predicted1RM": 268.3
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 165 },
+                        { "reps": 5, "weight": 165 },
+                        { "reps": 5, "weight": 165 }
+                    ],
+                    "predicted1RM": 192.5
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 320 },
+                        { "reps": 5, "weight": 320 },
+                        { "reps": 5, "weight": 320 }
+                    ],
+                    "predicted1RM": 373.3
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 115 },
+                        { "reps": 5, "weight": 115 },
+                        { "reps": 5, "weight": 115 }
+                    ],
+                    "predicted1RM": 134.2
+                }
+            ]
+        },
+        {
+            "date": "2025-10-20",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 235 },
+                        { "reps": 5, "weight": 235 },
+                        { "reps": 5, "weight": 235 }
+                    ],
+                    "predicted1RM": 274.2
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 167.5 },
+                        { "reps": 5, "weight": 167.5 },
+                        { "reps": 5, "weight": 167.5 }
+                    ],
+                    "predicted1RM": 195.4
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 330 },
+                        { "reps": 5, "weight": 330 },
+                        { "reps": 5, "weight": 330 }
+                    ],
+                    "predicted1RM": 385.0
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 117.5 },
+                        { "reps": 5, "weight": 117.5 },
+                        { "reps": 5, "weight": 117.5 }
+                    ],
+                    "predicted1RM": 137.1
+                }
+            ]
+        },
+        {
+            "date": "2025-10-22",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 235 },
+                        { "reps": 5, "weight": 235 },
+                        { "reps": 5, "weight": 235 }
+                    ],
+                    "predicted1RM": 274.2
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 167.5 },
+                        { "reps": 5, "weight": 167.5 },
+                        { "reps": 5, "weight": 167.5 }
+                    ],
+                    "predicted1RM": 195.4
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 330 },
+                        { "reps": 5, "weight": 330 },
+                        { "reps": 5, "weight": 330 }
+                    ],
+                    "predicted1RM": 385.0
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 117.5 },
+                        { "reps": 5, "weight": 117.5 },
+                        { "reps": 5, "weight": 117.5 }
+                    ],
+                    "predicted1RM": 137.1
+                }
+            ]
+        },
+        {
+            "date": "2025-10-24",
+            "lifts": [
+                {
+                    "name": "squat",
+                    "sets": [
+                        { "reps": 5, "weight": 235 },
+                        { "reps": 5, "weight": 235 },
+                        { "reps": 5, "weight": 235 }
+                    ],
+                    "predicted1RM": 274.2
+                },
+                {
+                    "name": "bench_press",
+                    "sets": [
+                        { "reps": 5, "weight": 167.5 },
+                        { "reps": 5, "weight": 167.5 },
+                        { "reps": 5, "weight": 167.5 }
+                    ],
+                    "predicted1RM": 195.4
+                },
+                {
+                    "name": "deadlift",
+                    "sets": [
+                        { "reps": 5, "weight": 330 },
+                        { "reps": 5, "weight": 330 },
+                        { "reps": 5, "weight": 330 }
+                    ],
+                    "predicted1RM": 385.0
+                },
+                {
+                    "name": "overhead_press",
+                    "sets": [
+                        { "reps": 5, "weight": 117.5 },
+                        { "reps": 5, "weight": 117.5 },
+                        { "reps": 5, "weight": 117.5 }
+                    ],
+                    "predicted1RM": 137.1
+                }
+            ]
+        }
+    ]
+}
